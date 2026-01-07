@@ -28,6 +28,6 @@ Click the link above to view the live deployed website.
    ```bash
    git clone https://github.com/mouryasree14/TravelBuddy.git
   
-##Author
+## Author
 Mouryasree14
 GitHub: https://github.com/mouryasree14
